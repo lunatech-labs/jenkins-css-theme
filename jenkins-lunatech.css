@@ -29,6 +29,6 @@ div.task a:nth-child(n+1) {
   padding: 4px 4px 5px 0 !important;
 }
 
-#header logo:after {
+#header .logo:after {
   content: url("http://lunatech.com/assets/images/Lunatech_Logo_Line_RGB_Pos_A.png")
 }
