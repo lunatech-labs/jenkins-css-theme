@@ -12,15 +12,15 @@ body.yui-skin-sam,.yui-skin-sam table,.yui-skin-sam form,.yui-skin-sam input,.yu
   height: 40px !important;
 }
 
-#header #jenkins-head-icon:before {
+#jenkins-head-icon:before {
   content: url("http://lunatech.com/assets/images/Lunatech_Logo_Line_RGB_Pos_A.png")
 }
 
-#header #jenkins-head-icon, #header #jenkins-name-icon {
+#jenkins-head-icon, #jenkins-name-icon {
   display: none !important;
 }
 
-#header .login {
+#header .login, #header .login a {
   color: #444 !important;
 }
 
