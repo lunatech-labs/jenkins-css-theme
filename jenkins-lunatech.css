@@ -12,10 +12,6 @@ body.yui-skin-sam,.yui-skin-sam table,.yui-skin-sam form,.yui-skin-sam input,.yu
   height: 40px !important;
 }
 
-#jenkins-head-icon:before {
-  content: url("http://lunatech.com/assets/images/Lunatech_Logo_Line_RGB_Pos_A.png")
-}
-
 #jenkins-head-icon, #jenkins-name-icon {
   display: none !important;
 }
@@ -31,4 +27,8 @@ body.yui-skin-sam,.yui-skin-sam table,.yui-skin-sam form,.yui-skin-sam input,.yu
 
 div.task a:nth-child(n+1) {
   padding: 4px 4px 5px 0 !important;
+}
+
+#jenkins-head-icon:before {
+  content: url("http://lunatech.com/assets/images/Lunatech_Logo_Line_RGB_Pos_A.png")
 }
